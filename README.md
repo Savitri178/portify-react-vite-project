@@ -56,3 +56,4 @@ For a frontend-only Vite app, client-side routes may need a rewrite. If a deploy
   "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
 ```
+
